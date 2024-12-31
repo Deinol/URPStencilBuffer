@@ -1,5 +1,7 @@
 # How to Set Up the Stencil Buffer
 
+This guide provides instructions for configuring the stencil buffer in Unity's Universal Render Pipeline (URP). The stencil buffer is a powerful feature for creating advanced rendering effects, such as masking objects or applying different visual styles to specific areas of a scene.
+
 There are two methods to set up the stencil buffer:
 
 1. Using the **StencilBufferMask** shader and URP's render features.
